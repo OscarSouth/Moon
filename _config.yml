@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Site
 title:              "Oscar South"
 bio:                "Functional Programming & Data Science In The Creative Process!"
@@ -26,7 +29,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   OscarSouth
+disqus_shortname:   https-data-oscarsouth-com
 
 # Social
 # if you don't have any of social below, comment the line.
